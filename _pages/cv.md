@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Sichuan University, September 2021 ~ 2025(expected)**
+* **B.S. in Sichuan University, September 2021 ~ 2025**
   - Artificial Intelligence, College of Computer Science
-  - GPA (Compulsory): 3.86 /4.00
-  - Weighted Average Mark (Compulsory): 91.13 /100.0
+  - GPA (Compulsory): 3.87 /4.00
+  - Weighted Average Mark (Compulsory): 91.16 /100.0
 
-Work experience
+Publications
 ======
+* **Robust Contrastive Cross-modal Hashing with Noisy Labels**
+  * Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
+  * * ACM Multimedia 2024 (CCF-A), Accepted
+
+Work Experience
+======
+* **April 2024 ~ Present: Research Assistant (Prof. Wei Tsang Ooi's lab)**
+  * Natioanl University of Singapore, School of Computing
+  * Supervisor: Prof. Wei Tsang Ooi
+  * Work:
+    - Researching on Multimedia, Gaussian Splatting, and Video Compression.
+  
 * **June 2022 ~ Present: Research Assistant (Machine Intelligence Laboratory)**
-  * Sichuan University
+  * Sichuan University, Colledge of Computer Science
   * Supervisor: Prof. Peng Hu
   * Work:
     - Researching on Cross-modal learning, Multimodal learning, and noisy labels.
-    - Introduced a novel approach for Cross-modal Hashing on noisy labels.
-    - Developed a cerebral palsy rehabilitation training system.
-    - Submitted a paper to the MM’24 conference (CCF-A) as the first author.
+    - Accepted a paper by the ACM MM’24 conference (CCF-A) as the first author.
     - Granted 1 utility model patent and 5 software copyrights.
   
 * **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023**
@@ -33,16 +43,15 @@ Work experience
   * Supervisor: Prof. Danny Poo
   * Work:
     - Researched on Big Data Analysis and Visualization.
-    - Proposed a predictive and recommendation model for the Beijing property market.
-    - Secured First Prize and achieved an A+ rating.
+    - Secured First Prize and an A+ rating.
       
-Project experience
+Project Experience
 ======
 * **June 2023 ~ Present: Noise Resistance Cross-modal Hashing**
   * Introduced a novel approach to achieve robust contrastive Cross-modal Hashing on noisy labels.
   * Devised a Robust Contrastive Hashing loss (RCH) to enhance reliability of binary representations for cross-modal retrieval.
   * Proposed a Dynamic Noise Separator (DNS) to eliminate the need for manual noise level estimation and reduce noise overfitting.
-  * Submitted research findings as the first author to ACM MULTIMEDIA 2024 (CCF-A).
+  * Accepted by ACM MULTIMEDIA 2024 (CCF-A) as the first author.
   
 * **December 2023 ~ February 2024: Robust Real-time Submersible Positioning System**
   * Developed a robust positioning system for single and multiple submersible tracking with ocean dynamics compensation.
@@ -110,10 +119,8 @@ Skills
 Interest Areas
 ======
 * Cross-modal Retrieval
-* Multimodal Learning
+* Multimedia
 * Noisy Labels
-* Computer Vision
-* Natural Language Processing
 * Machine Learning
 * Deep Learning
 * Data Science and Big Data Analytics
