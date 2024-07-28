@@ -53,25 +53,12 @@ Project Experience
   * Proposed a Dynamic Noise Separator (DNS) to eliminate the need for manual noise level estimation and reduce noise overfitting.
   * Accepted by ACM MULTIMEDIA 2024 (CCF-A) as the first author.
   
-* **December 2023 ~ February 2024: Robust Real-time Submersible Positioning System**
-  * Developed a robust positioning system for single and multiple submersible tracking with ocean dynamics compensation.
-  * Formulated an optimization model with Analytic Hierarchy Process for optimal marine equipment utilization.
-  * Devised a rescue strategy by modeling success rates over time through integral calculus on possible location interval.
-  * Achieved Second Prize in the 2024 Mathematical Contest in Modeling as team leader.
-
 * **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System**
   * Achieved precise and robust fruit classification and apple detection, followed by estimation of apple quantity, coordinates, ripeness, and mass, based on ResNet and Faster R-CNN, respectively.
   * Reduced the distance and angle bias by clustering apples at a pixel level with K-means algorithm.
   * Constructed a volume calculation model based on sphericity of apples.
-  * Achieved First Prize and Innovation Prize (Rate: 6/10000, First Place) in the 2023 APMCM as the team leader .
+  * Achieved Innovation Prize amone the First Prize teams (Rate: 1/10000) in the 2023 APMCM as the team leader .
  
-* **June 2023 ~ September 2023: Fresh Grocery Supermarket Replenishment and Pricing System**
-  * Employed statistical analysis and seasonal time series to discern sales distribution and correlations in big data.
-  * Utilized genetic algorithms for cost-efficient pricing and inventory strategies to optimize supermarket profits.
-  * Applied simulated annealing in an enhanced model for individual product profit maximization, considering spatial and
-inventory constraints.
-  * Achieved First Provincial Prize in National College Students’ Mathematical Modeling Competition as team leader.
-
 * **May 2023 ~ August 2023: Investment Analysis for Property in Beijing**
   * Employed financial techniques, i.e. K-charts and MA-charts, for house price trend analysis.
   * Leveraged DNNs to establish a feature-to-price mapping for price rationality assessments.
