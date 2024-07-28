@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/). My research interest includes Cross-modale Retrieval, Multimodal Learning, Noisy Labels, CV, NLP, Machine Learning, Deep Learning, Data Science and Big Data Analytics.
+I'm an undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/). And I am currently doing research in [National University of Singapore](https://nus.edu.sg/), [School of Computing](https://www.comp.nus.edu.sg/). My research interest includes Cross-modale Retrieval, Multimeida, Noisy Labels, Machine Learning, Deep Learning.
 
 I'm very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) of Machine Intelligence Lab from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/).
 
