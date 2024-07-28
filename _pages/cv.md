@@ -20,7 +20,7 @@ Publications
 ======
 * **Robust Contrastive Cross-modal Hashing with Noisy Labels**
   * Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
-  * * ACM Multimedia 2024 (CCF-A), Accepted
+  * ACM Multimedia 2024 (CCF-A), Accepted
 
 Work Experience
 ======
@@ -57,13 +57,13 @@ Project Experience
   * Achieved precise and robust fruit classification and apple detection, followed by estimation of apple quantity, coordinates, ripeness, and mass, based on ResNet and Faster R-CNN, respectively.
   * Reduced the distance and angle bias by clustering apples at a pixel level with K-means algorithm.
   * Constructed a volume calculation model based on sphericity of apples.
-  * Achieved Innovation Prize amone the First Prize teams (Rate: 1/10000) in the 2023 APMCM as the team leader .
+  * Achieved Innovation Prize amone the First Prize teams (Rank: 1/10000) in the 2023 APMCM as the team leader .
  
 * **May 2023 ~ August 2023: Investment Analysis for Property in Beijing**
   * Employed financial techniques, i.e. K-charts and MA-charts, for house price trend analysis.
   * Leveraged DNNs to establish a feature-to-price mapping for price rationality assessments.
   * Generated heatmaps to guide investors towards profitable locations.
-  * Achieved First Prize and A+ Rating in the NUS SOC Summer Workshop.
+  * Achieved First Prize (Best Project) and A+ Rating in the NUS SOC Summer Workshop.
   
 * **June 2022 ~ October 2023: Spastic Cerebral Palsy Cognitive Rehabilitation Training System**
   * Developed a game-based home rehabilitation system for children with spastic cerebral palsy, focusing on enhanced engagement and personalized training by tracking movement and emotional changes.
