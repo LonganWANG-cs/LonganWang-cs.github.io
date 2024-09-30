@@ -11,47 +11,54 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Sichuan University, September 2021 ~ 2025**
+* **Visiting Student in National University of Singapore (NUS), April 2024 ~ 2025**
+  - [NGNE](https://www.comp.nus.edu.sg/~ngne/Home.html) program, School of Computing
+    
+* **B.S. in Sichuan University (SCU), September 2021 ~ 2025**
   - Artificial Intelligence, College of Computer Science
   - GPA (Compulsory): 3.87 /4.00
   - Weighted Average Mark (Compulsory): 91.16 /100.0
 
 Publications
 ======
-* **Robust Contrastive Cross-modal Hashing with Noisy Labels**
-  * Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
-  * ACM Multimedia 2024 (CCF-A), Accepted
+* **[Robust Contrastive Cross-modal Hashing with Noisy Labels](https://openreview.net/pdf?id=UBPu6deCPt) (Undergraduate 1st author)**
+  * **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
+  * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)}
 
-Work Experience
+Research Experience
 ======
-* **April 2024 ~ Present: Research Assistant (Prof. Wei Tsang Ooi's lab)**
+* **April 2024 ~ Present: Project Collaborator ([IPAL:International Research Laboratory on Artificial Intelligence](https://ipal.cnrs.fr/))**
   * Natioanl University of Singapore, School of Computing
-  * Supervisor: Prof. Wei Tsang Ooi
+  * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
   * Work:
     - Researching on Multimedia, Gaussian Splatting, and Video Compression.
   
-* **June 2022 ~ Present: Research Assistant (Machine Intelligence Laboratory)**
+* **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory)**
   * Sichuan University, Colledge of Computer Science
-  * Supervisor: Prof. Peng Hu
+  * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
   * Work:
     - Researching on Cross-modal learning, Multimodal learning, and noisy labels.
-    - Accepted a paper by the ACM MM’24 conference (CCF-A) as the first author.
-    - Granted 1 utility model patent and 5 software copyrights.
+    - 1 paper accepted by ACM MM'24, 1 utility model patent, 6 software copyrights..
   
 * **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023**
-  * National University of Singapore
-  * Supervisor: Prof. Danny Poo
+  * National University of Singapore, School of Computing
+  * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
   * Work:
     - Researched on Big Data Analysis and Visualization.
     - Secured First Prize and an A+ rating.
       
 Project Experience
 ======
+* **June 2024 ~ Present: Gaussian Splatting for Video Reconstruction and Compression, NUS**
+  * Developing Gaussian video technique using Gaussian Splatting with effective compression algorithms.
+  * Balancing video quality and compression to maximize performance and resource utilization.
+  * Successfully generated the first Gaussian-based video, Project Leader.
+  
 * **June 2023 ~ Present: Noise Resistance Cross-modal Hashing**
   * Introduced a novel approach to achieve robust contrastive Cross-modal Hashing on noisy labels.
   * Devised a Robust Contrastive Hashing loss (RCH) to enhance reliability of binary representations for cross-modal retrieval.
   * Proposed a Dynamic Noise Separator (DNS) to eliminate the need for manual noise level estimation and reduce noise overfitting.
-  * Accepted by ACM MULTIMEDIA 2024 (CCF-A) as the first author.
+  * Accepted by ACM MULTIMEDIA 2024 (CCF-A) as the 1st author.
   
 * **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System**
   * Achieved precise and robust fruit classification and apple detection, followed by estimation of apple quantity, coordinates, ripeness, and mass, based on ResNet and Faster R-CNN, respectively.
@@ -83,10 +90,12 @@ Awards and Achievements
 * Second Provincial Prize, Chinese Collegiate Computing Competition, May 2023.
 * Second Provincial Prize, HUAWEI ICT Competition, February 2023.
 * Provincial Outstanding Project, Leader , Undergrad Innovation and Entrepreneurship Program, December 2023.
+* Best Developer, Cambricon Technologies Corporation Limited, September 2024.
 * First Prize, NUS SoC Summer Workshop, July 2023.
 * Outstanding Student, Sichuan University, October 2023.
 * Outstanding Student, Sichuan University, October 2022.
 * Utility Model Patent, First Inventor , CN 219501919 U, August 2023.
+* Software Copyright, 2024SR1098060, July 2024.
 * Software Copyright, 2024SR0511512, April 2024.
 * Software Copyright, 2023SR0406133, March 2023.
 * Software Copyright, 2023SR0379563, March 2023.
@@ -105,9 +114,10 @@ Skills
 
 Interest Areas
 ======
-* Cross-modal Retrieval
 * Multimedia
-* Noisy Labels
+* Multimodal
 * Machine Learning
-* Deep Learning
-* Data Science and Big Data Analytics
+* Video Compression
+* Cross-modal Retrieval
+* Noisy Labels
+* Gaussian Splatting
