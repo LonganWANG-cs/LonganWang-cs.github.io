@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "self.jpg"
   name             : "Longan Wang"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "National University of Singapore & Sichuan University"
   location         : "Singapore"
   employer         : #
