@@ -23,7 +23,7 @@ Publications
 ======
 * **[Robust Contrastive Cross-modal Hashing with Noisy Labels](https://openreview.net/pdf?id=UBPu6deCPt) (Undergraduate 1st author)**
   * **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
-  * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)}
+  * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)
 
 Research Experience
 ======
