@@ -25,84 +25,98 @@ Publications
   * **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
   * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)
 
-Research Experience
+Internship
 ======
-* **April 2024 ~ Present: Project Collaborator ([IPAL:International Research Laboratory on Artificial Intelligence](https://ipal.cnrs.fr/))**
+* **April 2024 ~ Present: Project Collaborator ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
   * Natioanl University of Singapore, School of Computing
   * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
   * Work:
     - Researching on Multimedia, Gaussian Splatting, and Video Compression.
   
-* **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory)**
+* **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory, MIL SCU)**
   * Sichuan University, Colledge of Computer Science
   * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
   * Work:
     - Researching on Cross-modal learning, Multimodal learning, and noisy labels.
-    - 1 paper accepted by ACM MM'24, 1 utility model patent, 6 software copyrights..
+    - 1 paper accepted by ACM MM'24, 1 utility model patent, 6 software copyrights.
   
-* **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023**
+* **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023, SOC NUS**
   * National University of Singapore, School of Computing
   * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
   * Work:
     - Researched on Big Data Analysis and Visualization.
     - Secured First Prize and an A+ rating.
       
-Project Experience
+Research
 ======
-* **June 2024 ~ Present: Gaussian Splatting for Video Reconstruction and Compression, NUS**
-  * Developing Gaussian video technique using Gaussian Splatting with effective compression algorithms.
-  * Balancing video quality and compression to maximize performance and resource utilization.
-  * Successfully generated the first Gaussian-based video, Project Leader.
+* **June 2024 ~ Present: Gaussian Splatting for Video Reconstruction and Compression** NUS IPAL
+  * Developing a novel video streaming framework using Gaussian Splatting to enhance reconstruction and compression.
+  * Constructing efficient 2D Gaussian representation to improve reconstruction accuracy and compression performance.
+  * Integrating Gaussian Splatting with advanced compression algorithms to enhance visual quality and storage efficiency.
+  * Balancing video quality and compression for optimal system performance.
+  *  Successfully generated the first Gaussian-based video, Project Leader.
+
   
-* **June 2023 ~ Present: Noise Resistance Cross-modal Hashing**
-  * Introduced a novel approach to achieve robust contrastive Cross-modal Hashing on noisy labels.
-  * Devised a Robust Contrastive Hashing loss (RCH) to enhance reliability of binary representations for cross-modal retrieval.
-  * Proposed a Dynamic Noise Separator (DNS) to eliminate the need for manual noise level estimation and reduce noise overfitting.
-  * Accepted by ACM MULTIMEDIA 2024 (CCF-A) as the 1st author.
+* **June 2023 ~ Present: Noise Resistance Cross-modal Hashing** SCU MIL
+  * Cross-modal hashing has emerged as a promising technique for retrieving information across different media types, but it heavily relies on large-scale, well-annotated datasets, which are costly and prone to labeling noise.
+  *  Proposed a novel framework, termed Noise Resistance Cross-modal Hashing (NRCH), to learn hashing with noisy labels by overcoming two key challenges, i.e. noise overfitting and error accumulation.
+  * Introduced a novel Robust Contrastive Hashing (RCH) loss to prevent overfitting by targeting reliable homologous pairs with a soft margin, enhancing the robustness of the model against noise.
+  * Develop a Dynamic Noise Separator (DNS) to dynamically distinguish clean from noisy samples by adaptively fitting the loss distribution, thus alleviate the adverse influence of noise error accumulation on iterative training.
+  * Accepted by ACM MM’24 Conference(CCF-A), First Author.
+
   
-* **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System**
-  * Achieved precise and robust fruit classification and apple detection, followed by estimation of apple quantity, coordinates, ripeness, and mass, based on ResNet and Faster R-CNN, respectively.
-  * Reduced the distance and angle bias by clustering apples at a pixel level with K-means algorithm.
-  * Constructed a volume calculation model based on sphericity of apples.
-  * Achieved Innovation Prize amone the First Prize teams (Rank: 1/10000) in the 2023 APMCM as the team leader .
+* **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System** SCU MIL
+  * Challenging orchard environments, including lighting variations, clutter, and perspective bias, demand a more robust solution to improve model performance.
+  *Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
+  * Applied image enhancement techniques, including color enhancement, Gaussian filtering, and morphological operations, to mitigate lighting variations and background clutter.
+  * Minimized distance and angle bias using an adaptive apple clustering algorithm at the pixel level.
+  * Ranked 1st out of 10,000 teams for the Innovation Prize in the 2023 APMCM, Project Leader.
  
-* **May 2023 ~ August 2023: Investment Analysis for Property in Beijing**
-  * Employed financial techniques, i.e. K-charts and MA-charts, for house price trend analysis.
-  * Leveraged DNNs to establish a feature-to-price mapping for price rationality assessments.
-  * Generated heatmaps to guide investors towards profitable locations.
-  * Achieved First Prize (Best Project) and A+ Rating in the NUS SOC Summer Workshop.
+* **May 2023 ~ August 2023: In-depth Data Analysis and Visualization on Beijing’s Real Estate Market** NUS SOC 
+  * Investigating advanced methods to analyze real estate market trends by analyzing time-series data.
+  * Utilized K-line and Moving Average charts at various time granularities to predicted market trends.
+  * With a correlation matrix to assign feature weights, we enabled a lightweight neural network to efficiently evaluate the alignment between property features and prices.
+  *  Identified optimal investment windows by overlaying selected features with time-granular price trends on a heat map.
+  *  First Prize and A+ Rating in the NUS SOC Summer Workshop, Best Project.
   
-* **June 2022 ~ October 2023: Spastic Cerebral Palsy Cognitive Rehabilitation Training System**
+* **June 2022 ~ October 2023: Spastic Cerebral Palsy Cognitive Rehabilitation Training System** SCU MIL
+  * Traditional rehabilitation for children with spastic cerebral palsy is resource-intensive and difficult to deploy at home, lacking both physical and emotional support.
   * Developed a game-based home rehabilitation system for children with spastic cerebral palsy, focusing on enhanced engagement and personalized training by tracking movement and emotional changes.
-  * Implemented a Spatio-Temporal Graph Convolutional Network (STGCN) based on OpenPose for movement detection.
-  * Implemented a dual neural network combining CNN and Transformer architectures for emotion detection.
-  * Selected as the provincial outstanding project in Undergrad Innovation and Entrepreneurship Program as the project leader .
+  * Leveraged the ST-GCN to achieved real-time gesture recognition, with skeletal points extracted through OpenPose.
+  * Developed a dual network combining CNN and Transformer to achieved the emotion detection.
+  * Built a cloud-based platform to enable online engagement, ensuring remote access and communication.
+  * Provincial Outstanding Project in Undergrad Innovation and Entrepreneurship Program, Project Leader.
 
 Awards and Achievements
 ======
-* Innovation Prize, Asia and Pacific Mathematical Contest in Modeling, November 2023.
-* First National Prize, Asia and Pacific Mathematical Contest in Modeling, November 2023.
-* Second National Prize, Mathematical Contest In Modeling, February 2024.
-* Second National Prize, MathorCup College Mathematical Modeling Challenge, July 2023.
-* Second National Prize, Mathematical Contest In Modeling, February 2023.
-* First Provincial Prize, National College Students’ Mathematical Modeling Competition, September 2023.
-* First Provincial Prize, Sichuan College Student Academic Science and Technology Competition, September 2023.
-* Second Provincial Prize, Chinese Collegiate Computing Competition, May 2023.
-* Second Provincial Prize, HUAWEI ICT Competition, February 2023.
-* Provincial Outstanding Project, Leader , Undergrad Innovation and Entrepreneurship Program, December 2023.
-* Best Developer, Cambricon Technologies Corporation Limited, September 2024.
-* First Prize, NUS SoC Summer Workshop, July 2023.
-* Outstanding Student, Sichuan University, October 2023.
-* Outstanding Student, Sichuan University, October 2022.
-* Utility Model Patent, First Inventor , CN 219501919 U, August 2023.
-* Software Copyright, 2024SR1098060, July 2024.
-* Software Copyright, 2024SR0511512, April 2024.
-* Software Copyright, 2023SR0406133, March 2023.
-* Software Copyright, 2023SR0379563, March 2023.
-* Software Copyright, 2023SR0649892, May 2023.
-* Software Copyright, 2023SR0649414, April 2023.
+* **University Achievements**
+  * **First Prize**. NUS SOC Summer Workshop. *July 2023*
+  * **Outstanding Student**. Sichuan University. *October 2023*
+  * **Outstanding Student**. Sichuan University. *October 2022*
 
-Skills
+*  **Mathematical and Computing Competitions**
+  * **Innovation Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *May 2024*
+  * **First Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *November 2023*
+  * **First Prize**. China Undergraduate Mathematical Contest in Modeling. *Provincial*. *September 2023*
+  * **Second Prize**. Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling. *National*. *February 2024*
+  * **Second Prize**. MathorCup University Mathematical Modeling Challenge Competition. *National*. *July 2023*
+  * **Second Prize**. Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling. *National*. *February 2023*
+
+* **Innovation and Entrepreneurship**
+  * **Outstanding Project**. Leader. Undergrad Innovation and Entrepreneurship Program. *Provincial*. *December 2023*
+  * **Best Developer**. Cambricon Technologies Corporation Limited. *September 2024*
+  * **First Prize**. College Student Academic Science and Technology Competition. *Provincial*. *May 2023*
+
+* **Intellectual Property**
+  1. **Longan Wang**, Yutong Yang, Mei Hu, Junjie Xu, Xin Li. 2023. A Rehabilitation System for Children with Cerebral Palsy. *Utility Model Patent Registration No. 2023 2 0174092.X*.
+  2. **Longan Wang**, Yutong Yang, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Rehabilitation Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0466133*.
+  3. Yutong Yang, **Longan Wang**, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Cloud Service Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0379563*.
+  4. Yichen Luo, Feike Chen, **Longan Wang**, Yibo Yang, Zhanpeng Hu, Wenwen Zhang, Hongwei Xu, Haowei Chen. 2024. Deep Learning-Based Organ and Lesion Automatic Segmentation System. *Software Copyright Registration No. 2024SR1098060*.
+  5. Jiaming Feng, Yueqi Jiang, **Longan Wang**, Senying Zhang, Suxiang Ma. 2024. Multimodal Clinical Circulating Biomarker Database Platform for Pulmonary Diseases. *Software Copyright Registration No. 2024SR0511512*.
+  6. Jiaming Feng, Kai Ren, **Longan Wang**, Yichen Luo. 2023. Multimodal Clinical Imaging Data Platform for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0649414*.
+  7. Jiaming Feng, Kai Ren, Yujuan Zhan, **Longan Wang**, Nanli Cheng. 2023. Deep Learning-Based 3D Imaging Precision Diagnostic System for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0648992*.
+
+PROFICIENCIES
 ======
 * English Skills:
   * IELTS—7.0 (December 2023)
@@ -112,12 +126,12 @@ Skills
   * Tools: VS Code, Visual Studio, MySQL, Matlab, SPSS, Stata, Overleaf, VMware
   * Framework: Linux, GitHub, Pytorch, Tensorflow
 
-Interest Areas
+Interests
 ======
-* Multimedia
-* Multimodal
-* Machine Learning
-* Video Compression
-* Cross-modal Retrieval
-* Noisy Labels
-* Gaussian Splatting
+| Multimedia                                 | Multimodality                              | Machine Learning                     |
+|--------------------------------------------|--------------------------------------------|--------------------------------------|
+| Multimedia Systems                         | Multimodal Learning                        | Deep Learning                        |
+| Efficient Data Representation              | 2D/3D/4D Gaussian Splatting                | Data Analytics & Mining              |
+| Video Streaming & Compression              | Cross-modal Retrieval                      | Robustness & Noisy Data              |
+| Virtual Environments                       | Contrastive Learning                       | Hash-based Retrieval                 |
+
