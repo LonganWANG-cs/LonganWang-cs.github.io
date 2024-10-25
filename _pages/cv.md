@@ -94,7 +94,7 @@ Awards and Achievements
   * **Outstanding Student**. Sichuan University. *October 2023*
   * **Outstanding Student**. Sichuan University. *October 2022*
 
-*  **Mathematical and Computing Competitions**
+* **Mathematical and Computing Competitions**
   * **Innovation Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *May 2024*
   * **First Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *November 2023*
   * **First Prize**. China Undergraduate Mathematical Contest in Modeling. *Provincial*. *September 2023*
