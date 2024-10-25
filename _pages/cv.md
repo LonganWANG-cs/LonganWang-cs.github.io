@@ -67,7 +67,7 @@ Research
   
 * **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System** SCU MIL
   * Challenging orchard environments, including lighting variations, clutter, and perspective bias, demand a more robust solution to improve model performance.
-  *Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
+  * Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
   * Applied image enhancement techniques, including color enhancement, Gaussian filtering, and morphological operations, to mitigate lighting variations and background clutter.
   * Minimized distance and angle bias using an adaptive apple clustering algorithm at the pixel level.
   * Ranked 1st out of 10,000 teams for the Innovation Prize in the 2023 APMCM, Project Leader.
