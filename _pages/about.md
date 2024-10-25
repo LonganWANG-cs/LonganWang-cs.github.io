@@ -19,6 +19,7 @@ I firmly believe that truly noble and outstanding individuals possess the abilit
 
 Interests
 ======
+
 | Multimedia Systems             | Multimodal Learning        | Deep Learning                |
 |--------------------------------|----------------------------|------------------------------|
 | Efficient Data Representation  | 2D/3D/4D Gaussian Splatting | Data Analytics & Mining       |
