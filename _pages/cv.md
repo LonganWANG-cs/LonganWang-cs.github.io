@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * **Visiting Student in National University of Singapore (NUS), April 2024 ~ 2025**
   - [NGNE](https://www.comp.nus.edu.sg/~ngne/Home.html) program, School of Computing
@@ -19,13 +19,13 @@ Education
   - GPA (Compulsory): 3.87 /4.00
   - Weighted Average Mark (Compulsory): 91.16 /100.0
 
-Publications
+PUBLICATIONS
 ======
 * **[Robust Contrastive Cross-modal Hashing with Noisy Labels](https://openreview.net/pdf?id=UBPu6deCPt) (Undergraduate 1st author)**
   * **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
   * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)
 
-Internship
+INTERNSHIP
 ======
 * **April 2024 ~ Present: Project Collaborator ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
   * Natioanl University of Singapore, School of Computing
@@ -47,7 +47,7 @@ Internship
     - Researched on Big Data Analysis and Visualization.
     - Secured First Prize and an A+ rating.
       
-Research
+RESEARCH
 ======
 * **June 2024 ~ Present: Gaussian Splatting for Video Reconstruction and Compression** NUS IPAL
   * Developing a novel video streaming framework using Gaussian Splatting to enhance reconstruction and compression.
@@ -87,7 +87,7 @@ Research
   * Built a cloud-based platform to enable online engagement, ensuring remote access and communication.
   * Provincial Outstanding Project in Undergrad Innovation and Entrepreneurship Program, Project Leader.
 
-Awards and Achievements
+ACHIEVEMENTS
 ======
 * **University Achievements**
   * **First Prize**. NUS SOC Summer Workshop. *July 2023*
@@ -126,7 +126,7 @@ PROFICIENCIES
   * Tools: VS Code, Visual Studio, MySQL, Matlab, SPSS, Stata, Overleaf, VMware
   * Framework: Linux, GitHub, Pytorch, Tensorflow
 
-Interests
+INTERESTS
 ======
 
 | Multimedia                    | Multimodality                 | Machine Learning              |
