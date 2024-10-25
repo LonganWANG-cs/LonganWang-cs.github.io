@@ -129,9 +129,10 @@ PROFICIENCIES
 Interests
 ======
 
-| Multimedia Systems             | Multimodal Learning        | Deep Learning                |
-|--------------------------------|----------------------------|------------------------------|
-| Efficient Data Representation  | 2D/3D/4D Gaussian Splatting | Data Analytics & Mining       |
-| Video Streaming & Compression  | Cross-modal Retrieval       | Robustness & Noisy Data       |
-| Virtual Environments           | Contrastive Learning        | Hash-based Retrieval          |
+| Multimedia                    | Multimodality                 | Machine Learning              |
+|-------------------------------|-------------------------------|-------------------------------|
+| Multimedia Systems            | Multimodal Learning           | Deep Learning                 |
+| Efficient Data Representation | 2D/3D/4D Gaussian Splatting   | Data Analytics & Mining       |
+| Video Streaming & Compression | Cross-modal Retrieval         | Robustness & Noisy Data       |
+| Virtual Environments          | Contrastive Learning          | Hash-based Retrieval          |
 
