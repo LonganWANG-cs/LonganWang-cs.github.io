@@ -65,7 +65,7 @@ RESEARCH
   * Accepted by ACM MM’24 Conference(CCF-A), First Author.
 
   
-* **September 2023 ~ November 2023: Intelligent Apple Orchard Harvesting System** SCU MIL
+* **September 2023 ~ May 2024: Intelligent Apple Orchard Harvesting System** SCU MIL
   * Challenging orchard environments, including lighting variations, clutter, and perspective bias, demand a more robust solution to improve model performance.
   * Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
   * Applied image enhancement techniques, including color enhancement, Gaussian filtering, and morphological operations, to mitigate lighting variations and background clutter.
