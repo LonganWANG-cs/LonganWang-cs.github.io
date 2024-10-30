@@ -20,29 +20,32 @@ I firmly believe that truly noble and outstanding individuals possess the abilit
 Interests
 ======
 
-<table>
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <th colspan="3" style="text-align:center;">Multimedia</th>
+    <th colspan="3" style="border: 1px solid #ddd; border-bottom: 2px solid #000; padding: 8px; font-size: 1.2em; background-color: #f5f5f5;">
+      Multimedia
+    </th>
   </tr>
   <tr>
-    <th>Multimedia Systems</th>
-    <th>Multimodal</th>
-    <th>Machine Learning</th>
+    <th style="border: 1px solid #ddd; padding: 10px; font-weight: bold;">Multimedia Systems</th>
+    <th style="border: 1px solid #ddd; padding: 10px; font-weight: bold;">Multimodal</th>
+    <th style="border: 1px solid #ddd; padding: 10px; font-weight: bold;">Machine Learning</th>
   </tr>
   <tr>
-    <td>Efficient Data Representation</td>
-    <td>Multimodal Learning</td>
-    <td>Information Retrieval</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Efficient Data Representation</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Multimodal Learning</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Information Retrieval</td>
   </tr>
   <tr>
-    <td>Video Streaming</td>
-    <td>2D/3D/4D Gaussian Splatting</td>
-    <td>Contrastive Learning</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Video Streaming</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">2D/3D/4D Gaussian Splatting</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Contrastive Learning</td>
   </tr>
   <tr>
-    <td>Video Compression</td>
-    <td>Cross-modal Retrieval</td>
-    <td>Robustness & Noisy Data</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Video Compression</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Cross-modal Retrieval</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Robustness & Noisy Data</td>
   </tr>
 </table>
+
 
