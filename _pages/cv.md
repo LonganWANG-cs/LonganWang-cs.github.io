@@ -135,3 +135,30 @@ INTERESTS
 | Video Streaming               | 2D/3D/4D Gaussian Splatting   | Contrastive Learning          |
 | Video Compression             | Cross-modal Retrieval         | Robustness & Noisy Data       |
 
+<table>
+  <tr>
+    <th colspan="3" style="text-align:center;">Multimedia</th>
+  </tr>
+  <tr>
+    <th>Multimedia Systems</th>
+    <th>Multimodal</th>
+    <th>Machine Learning</th>
+  </tr>
+  <tr>
+    <td>Efficient Data Representation</td>
+    <td>Multimodal Learning</td>
+    <td>Information Retrieval</td>
+  </tr>
+  <tr>
+    <td>Video Streaming</td>
+    <td>2D/3D/4D Gaussian Splatting</td>
+    <td>Contrastive Learning</td>
+  </tr>
+  <tr>
+    <td>Video Compression</td>
+    <td>Cross-modal Retrieval</td>
+    <td>Robustness & Noisy Data</td>
+  </tr>
+</table>
+
+
