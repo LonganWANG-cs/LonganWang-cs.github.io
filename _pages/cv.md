@@ -130,12 +130,9 @@ INTERESTS
 ======
 <table>
   <tr>
-    <th colspan="3" style="text-align:center;">Multimedia</th>
-  </tr>
-  <tr>
-    <th>Multimedia Systems</th>
-    <th>Multimodal</th>
-    <th>Machine Learning</th>
+    <td>Multimedia Systems</td>
+    <td>Multimodal</td>
+    <td>Machine Learning</td>
   </tr>
   <tr>
     <td>Efficient Data Representation</td>
