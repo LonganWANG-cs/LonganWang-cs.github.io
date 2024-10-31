@@ -19,28 +19,32 @@ I firmly believe that truly noble and outstanding individuals possess the abilit
 
 INTERESTS
 ======
-<table>
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; text-align:center;">
   <tr>
-    <td>Multimedia Systems</td>
-    <td>Multimodal</td>
-    <td>Machine Learning</td>
+    <th colspan="3">Multimedia</th>
   </tr>
   <tr>
-    <td>Efficient Data Representation</td>
-    <td>Multimodal Learning</td>
-    <td>Information Retrieval</td>
-  </tr>
-  <tr>
-    <td>Video Streaming & Compression</td>
-    <td>2D/3D/4D Gaussian Splatting</td>
-    <td>Contrastive Learning</td>
-  </tr>
-  <tr>
-    <td>Computer Graphics</td>
-    <td>Cross-modal Hashing</td>
-    <td>Robustness & Noisy Data</td>
+    <td>
+      <strong>Multimedia Systems</strong><br>
+      Efficient Data Representation<br>
+      Video Streaming & Compression<br>
+      Computer Graphics
+    </td>
+    <td>
+      <strong>Multimodal</strong><br>
+      Multimodal Learning<br>
+      2D/3D/4D Gaussian Splatting<br>
+      Cross-modal Hashing
+    </td>
+    <td>
+      <strong>Machine Learning</strong><br>
+      Information Retrieval<br>
+      Contrastive Learning<br>
+      Robustness & Noisy Data
+    </td>
   </tr>
 </table>
+
 
 
 
