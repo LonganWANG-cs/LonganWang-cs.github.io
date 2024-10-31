@@ -11,13 +11,16 @@ redirect_from:
 
 EDUCATION
 ======
-* **Visiting Student in National University of Singapore (NUS), April 2024 ~ 2025**
-  - [NGNE](https://www.comp.nus.edu.sg/~ngne/Home.html) program, School of Computing
+* **Visiting Student in National University of Singapore (NUS), May 2023 ~ 2025**
+  - [NGNE](https://www.comp.nus.edu.sg/~ngne/), School of Computing
+  - [SWS2023](https://sws.comp.nus.edu.sg/2023/), School of Computing
+  - GRADE @ SWS: A+
+  - AWARD @ SWS: First Prize
     
 * **B.S. in Sichuan University (SCU), September 2021 ~ 2025**
   - Artificial Intelligence, College of Computer Science
   - GPA (Compulsory): 3.87 /4.00
-  - Weighted Average Mark (Compulsory): 91.16 /100.0
+  - GRADE (Compulsory): 91.16 /100.0
 
 PUBLICATIONS
 ======
@@ -30,22 +33,21 @@ INTERNSHIP
 * **April 2024 ~ Present: Project Collaborator ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
   * Natioanl University of Singapore, School of Computing
   * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
-  * Work:
-    - Researching on Multimedia, Gaussian Splatting, and Video Compression.
+  * Area:
+    - Multimedia & Video Streaming & 2D/3D/4D Gaussian Splatting.
   
 * **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory, MIL SCU)**
   * Sichuan University, Colledge of Computer Science
   * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
-  * Work:
-    - Researching on Cross-modal learning, Multimodal learning, and noisy labels.
-    - 1 paper accepted by ACM MM'24, 1 utility model patent, 6 software copyrights.
+  * Area:
+    - Multimodal Learning & Cross-modal Retrieval & Noisy Labels.
   
 * **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023, SOC NUS**
   * National University of Singapore, School of Computing
   * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
-  * Work:
-    - Researched on Big Data Analysis and Visualization.
-    - Secured First Prize and an A+ rating.
+  * Area:
+    - Big Data Analysis & Data Visualization.
+
       
 RESEARCH
 ======
@@ -140,13 +142,13 @@ INTERESTS
     <td>Information Retrieval</td>
   </tr>
   <tr>
-    <td>Video Streaming</td>
+    <td>Video Streaming & Compression</td>
     <td>2D/3D/4D Gaussian Splatting</td>
     <td>Contrastive Learning</td>
   </tr>
   <tr>
-    <td>Video Compression</td>
-    <td>Cross-modal Retrieval</td>
+    <td>Computer Graphics</td>
+    <td>Cross-modal Hashing</td>
     <td>Robustness & Noisy Data</td>
   </tr>
 </table>
