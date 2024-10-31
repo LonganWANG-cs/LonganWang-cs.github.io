@@ -17,7 +17,7 @@ I firmly believe that truly noble and outstanding individuals possess the abilit
 
 [Email](mailto:wanglongan1007@gmail.com) / [Github](https://github.com/LonganWANG-cs) / [Wechat](../images/wechat.jpg)
 
-Interests
+INTERESTS
 ======
 <table>
   <tr>
@@ -31,13 +31,13 @@ Interests
     <td>Information Retrieval</td>
   </tr>
   <tr>
-    <td>Video Streaming</td>
+    <td>Video Streaming & Compression</td>
     <td>2D/3D/4D Gaussian Splatting</td>
     <td>Contrastive Learning</td>
   </tr>
   <tr>
-    <td>Video Compression</td>
-    <td>Cross-modal Retrieval</td>
+    <td>Computer Graphics</td>
+    <td>Cross-modal Hashing</td>
     <td>Robustness & Noisy Data</td>
   </tr>
 </table>
