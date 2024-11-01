@@ -121,7 +121,7 @@ ACHIEVEMENTS
   * **First Prize**. College Student Academic Science and Technology Competition. *Provincial*. *May 2023*
 
 * **Academic Contributions & Intellectual Property**
-  1.**Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, and Peng Hu. (2024). Robust Contrastive Cross-modal Hashing with Noisy Labels. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), pp. 5752–5760. https://doi.org/10.1145/3664647.3680564.
+  1. **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, and Peng Hu. (2024). Robust Contrastive Cross-modal Hashing with Noisy Labels. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), pp. 5752–5760. https://doi.org/10.1145/3664647.3680564.
   2. **Longan Wang**, Yutong Yang, Mei Hu, Junjie Xu, Xin Li. 2023. A Rehabilitation System for Children with Cerebral Palsy. *Utility Model Patent Registration No. 2023 2 0174092.X*.
   3. **Longan Wang**, Yutong Yang, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Rehabilitation Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0466133*.
   4. Yutong Yang, **Longan Wang**, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Cloud Service Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0379563*.
