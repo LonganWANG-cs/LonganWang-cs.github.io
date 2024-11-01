@@ -34,7 +34,7 @@ INTERNSHIP
   * Natioanl University of Singapore, School of Computing
   * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
   * Area:
-    - Multimedia & Video Streaming & 2D/3D/4D Gaussian Splatting.
+    - Multimedia Systems & Video Streaming & 2D/3D/4D Gaussian Splatting.
   * Work:
     - Developing a Gaussian-based video streaming framework based on 2D Gaussian Splatting as the Project Lead.
   
@@ -42,7 +42,7 @@ INTERNSHIP
   * Sichuan University, Colledge of Computer Science
   * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
   * Area:
-    - Multimodal Learning & Cross-modal Retrieval & Noisy Labels.
+    - Multimodal Learning & Cross-modal Retrieval & Noise Data.
   * Work:
     - Proposed a novel approach for Cross-modal Hashing on noisy labels, accepted to MM’24 as first author.
     - Introduced a noise robust orchard management system, ranked 1/10,000 for the Innovation Prize in APMCM.
@@ -53,7 +53,7 @@ INTERNSHIP
   * National University of Singapore, School of Computing
   * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
   * Area:
-    - Big Data Analysis & Data Visualization.
+    - Machine Learning & Big Data Analysis & Data Visualization.
   * Work:
     - Proposed a predictive framework for the Beijing property market, wining the First Prize in SWS.
 
