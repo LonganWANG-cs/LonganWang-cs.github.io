@@ -35,18 +35,27 @@ INTERNSHIP
   * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
   * Area:
     - Multimedia & Video Streaming & 2D/3D/4D Gaussian Splatting.
+  * Work:
+    - Developing a Gaussian-based video streaming framework based on 2D Gaussian Splatting as the Project Lead.
   
 * **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory, MIL SCU)**
   * Sichuan University, Colledge of Computer Science
   * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
   * Area:
     - Multimodal Learning & Cross-modal Retrieval & Noisy Labels.
+  * Work:
+    - Proposed a novel approach for Cross-modal Hashing on noisy labels, accepted to MM’24 as first author.
+    - Introduced a noise robust orchard management system, ranked 1/10,000 for the Innovation Prize in APMCM.
+    - Developed a rehabilitation system for cerebral palsy children as the Project Lead, securing 1 patent and 2 copyrights.
+
   
 * **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023, SOC NUS**
   * National University of Singapore, School of Computing
   * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
   * Area:
     - Big Data Analysis & Data Visualization.
+  * Work:
+    - Proposed a predictive framework for the Beijing property market, wining the First Prize in SWS.
 
       
 RESEARCH
@@ -56,7 +65,7 @@ RESEARCH
   * Constructing efficient 2D Gaussian representation to improve reconstruction accuracy and compression performance.
   * Integrating Gaussian Splatting with advanced compression algorithms to enhance visual quality and storage efficiency.
   * Balancing video quality and compression for optimal system performance.
-  *  Successfully generated the first Gaussian-based video, Project Leader.
+  *  Successfully generated the first Gaussian-based video, Project Lead.
 
   
 * **June 2023 ~ Present: Noise Resistance Cross-modal Hashing** SCU MIL
@@ -72,7 +81,7 @@ RESEARCH
   * Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
   * Applied image enhancement techniques, including color enhancement, Gaussian filtering, and morphological operations, to mitigate lighting variations and background clutter.
   * Minimized distance and angle bias using an adaptive apple clustering algorithm at the pixel level.
-  * Ranked 1st out of 10,000 teams for the Innovation Prize in the 2023 APMCM, Project Leader.
+  * Ranked 1st out of 10,000 teams for the Innovation Prize in the 2023 APMCM, Project Lead.
  
 * **May 2023 ~ August 2023: In-depth Data Analysis and Visualization on Beijing’s Real Estate Market** NUS SOC 
   * Investigating advanced methods to analyze real estate market trends by analyzing time-series data.
@@ -87,16 +96,18 @@ RESEARCH
   * Leveraged the ST-GCN to achieved real-time gesture recognition, with skeletal points extracted through OpenPose.
   * Developed a dual network combining CNN and Transformer to achieved the emotion detection.
   * Built a cloud-based platform to enable online engagement, ensuring remote access and communication.
-  * Provincial Outstanding Project in Undergrad Innovation and Entrepreneurship Program, Project Leader.
+  * Provincial Outstanding Project in Undergrad Innovation and Entrepreneurship Program, Project Lead.
 
 ACHIEVEMENTS
 ======
-* **University Achievements**
+* **Recognition & Excellenc**
   * **First Prize**. NUS SOC Summer Workshop. *July 2023*
+  * **Outstanding Graduate**. Sichuan University. *October 2024*
+  * **Outstanding Student**. Sichuan University. *October 2024*
   * **Outstanding Student**. Sichuan University. *October 2023*
   * **Outstanding Student**. Sichuan University. *October 2022*
 
-* **Mathematical and Computing Competitions**
+* **Mathematical & Computing Competitions**
   * **Innovation Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *May 2024*
   * **First Prize**. Asia and Pacific Mathematical Contest in Modeling. *National*. *November 2023*
   * **First Prize**. China Undergraduate Mathematical Contest in Modeling. *Provincial*. *September 2023*
@@ -104,19 +115,20 @@ ACHIEVEMENTS
   * **Second Prize**. MathorCup University Mathematical Modeling Challenge Competition. *National*. *July 2023*
   * **Second Prize**. Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling. *National*. *February 2023*
 
-* **Innovation and Entrepreneurship**
+* **Innovation & Entrepreneurship**
   * **Outstanding Project**. Leader. Undergrad Innovation and Entrepreneurship Program. *Provincial*. *December 2023*
   * **Best Developer**. Cambricon Technologies Corporation Limited. *September 2024*
   * **First Prize**. College Student Academic Science and Technology Competition. *Provincial*. *May 2023*
 
-* **Intellectual Property**
-  1. **Longan Wang**, Yutong Yang, Mei Hu, Junjie Xu, Xin Li. 2023. A Rehabilitation System for Children with Cerebral Palsy. *Utility Model Patent Registration No. 2023 2 0174092.X*.
-  2. **Longan Wang**, Yutong Yang, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Rehabilitation Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0466133*.
-  3. Yutong Yang, **Longan Wang**, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Cloud Service Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0379563*.
-  4. Yichen Luo, Feike Chen, **Longan Wang**, Yibo Yang, Zhanpeng Hu, Wenwen Zhang, Hongwei Xu, Haowei Chen. 2024. Deep Learning-Based Organ and Lesion Automatic Segmentation System. *Software Copyright Registration No. 2024SR1098060*.
-  5. Jiaming Feng, Yueqi Jiang, **Longan Wang**, Senying Zhang, Suxiang Ma. 2024. Multimodal Clinical Circulating Biomarker Database Platform for Pulmonary Diseases. *Software Copyright Registration No. 2024SR0511512*.
-  6. Jiaming Feng, Kai Ren, **Longan Wang**, Yichen Luo. 2023. Multimodal Clinical Imaging Data Platform for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0649414*.
-  7. Jiaming Feng, Kai Ren, Yujuan Zhan, **Longan Wang**, Nanli Cheng. 2023. Deep Learning-Based 3D Imaging Precision Diagnostic System for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0648992*.
+* **Academic Contributions & Intellectual Property**
+  1.**Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, and Peng Hu. (2024). Robust Contrastive Cross-modal Hashing with Noisy Labels. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), pp. 5752–5760. https://doi.org/10.1145/3664647.3680564.
+  2. **Longan Wang**, Yutong Yang, Mei Hu, Junjie Xu, Xin Li. 2023. A Rehabilitation System for Children with Cerebral Palsy. *Utility Model Patent Registration No. 2023 2 0174092.X*.
+  3. **Longan Wang**, Yutong Yang, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Rehabilitation Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0466133*.
+  4. Yutong Yang, **Longan Wang**, Junjie Xu, Mei Hu, Xin Li. 2023. Intelligent Cloud Service Platform for Children with Cerebral Palsy. *Software Copyright Registration No. 2023SR0379563*.
+  5. Yichen Luo, Feike Chen, **Longan Wang**, Yibo Yang, Zhanpeng Hu, Wenwen Zhang, Hongwei Xu, Haowei Chen. 2024. Deep Learning-Based Organ and Lesion Automatic Segmentation System. *Software Copyright Registration No. 2024SR1098060*.
+  6. Jiaming Feng, Yueqi Jiang, **Longan Wang**, Senying Zhang, Suxiang Ma. 2024. Multimodal Clinical Circulating Biomarker Database Platform for Pulmonary Diseases. *Software Copyright Registration No. 2024SR0511512*.
+  7. Jiaming Feng, Kai Ren, **Longan Wang**, Yichen Luo. 2023. Multimodal Clinical Imaging Data Platform for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0649414*.
+  8. Jiaming Feng, Kai Ren, Yujuan Zhan, **Longan Wang**, Nanli Cheng. 2023. Deep Learning-Based 3D Imaging Precision Diagnostic System for Pulmonary Diseases. *Software Copyright Registration No. 2023SR0648992*.
 
 PROFICIENCIES
 ======
