@@ -30,13 +30,13 @@ PUBLICATIONS
 
 INTERNSHIP
 ======
-* **April 2024 ~ Present: Project Collaborator ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
+* **April 2024 ~ Present: Visiting Student/Researcher ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
   * Natioanl University of Singapore, School of Computing
   * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
   * Area:
     - Multimedia Systems & Video Streaming & 2D/3D/4D Gaussian Splatting.
   * Work:
-    - Developing a Gaussian-based video streaming framework based on 2D Gaussian Splatting as the Project Lead.
+    - Developed a novel Gaussian-based video representation framework, ready to submit to NOSSDAV’25 as the firsr author.
   
 * **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory, MIL SCU)**
   * Sichuan University, Colledge of Computer Science
@@ -60,43 +60,31 @@ INTERNSHIP
       
 RESEARCH
 ======
-* **June 2024 ~ Present: Gaussian Splatting for Video Reconstruction and Compression** NUS IPAL
-  * Developing a novel video streaming framework using Gaussian Splatting to enhance reconstruction and compression.
-  * Constructing efficient 2D Gaussian representation to improve reconstruction accuracy and compression performance.
-  * Integrating Gaussian Splatting with advanced compression algorithms to enhance visual quality and storage efficiency.
-  * Balancing video quality and compression for optimal system performance.
-  *  Successfully generated the first Gaussian-based video, Project Lead.
+* **June 2024 ~ Present: GaussianVideo: Efficient Video Representation through 2D Gaussian Splats** NUS IPAL
+  * Developed a novel video streaming representation framework through 2D Gaussian Splats.
+  * Proposed a Gaussian Splat Pruning (GSP) strategy to remove Redundant Gaussian Splats in 2D window space.
+  * Presented Gaussian Splat Augmentation (GSA) and Dynamic K-frame Selector (DKS) to fit abrupt changes in video.
 
-  
 * **June 2023 ~ Present: Noise Resistance Cross-modal Hashing** SCU MIL
-  * Cross-modal hashing has emerged as a promising technique for retrieving information across different media types, but it heavily relies on large-scale, well-annotated datasets, which are costly and prone to labeling noise.
-  *  Proposed a novel framework, termed Noise Resistance Cross-modal Hashing (NRCH), to learn hashing with noisy labels by overcoming two key challenges, i.e. noise overfitting and error accumulation.
-  * Introduced a novel Robust Contrastive Hashing (RCH) loss to prevent overfitting by targeting reliable homologous pairs with a soft margin, enhancing the robustness of the model against noise.
-  * Develop a Dynamic Noise Separator (DNS) to dynamically distinguish clean from noisy samples by adaptively fitting the loss distribution, thus alleviate the adverse influence of noise error accumulation on iterative training.
-  * Accepted by ACM MM’24 Conference(CCF-A), First Author.
+  *  Developed NRCH, a framework addressing noise overfitting and error accumulation in cross-modal hashing retrieval.
+  *  Proposed a novel Robust Contrastive Hashing (RCH) loss targeting homologous pairs to enhance model robustness.
+  *  Presented a Dynamic Noise Separator (DNS) adaptively filtering clean samples from noise to improve training stability.
 
   
 * **September 2023 ~ May 2024: Intelligent Apple Orchard Harvesting System** SCU MIL
-  * Challenging orchard environments, including lighting variations, clutter, and perspective bias, demand a more robust solution to improve model performance.
-  * Developed a precise fruit classification and apple detection, segmentation system, followed by the estimation of quantity, coordinates, ripeness, and mass using ResNet and Faster R-CNN.
-  * Applied image enhancement techniques, including color enhancement, Gaussian filtering, and morphological operations, to mitigate lighting variations and background clutter.
+  * Developed a noise robust orchard system to estimate quantity, coordinates, ripeness, and mass while harvesting.
+  * Proposed a novel image enhancement framework to mitigate lighting variations and occlusion.
   * Minimized distance and angle bias using an adaptive apple clustering algorithm at the pixel level.
-  * Ranked 1st out of 10,000 teams for the Innovation Prize in the 2023 APMCM, Project Lead.
  
 * **May 2023 ~ August 2023: In-depth Data Analysis and Visualization on Beijing’s Real Estate Market** NUS SOC 
-  * Investigating advanced methods to analyze real estate market trends by analyzing time-series data.
-  * Utilized K-line and Moving Average charts at various time granularities to predicted market trends.
-  * With a correlation matrix to assign feature weights, we enabled a lightweight neural network to efficiently evaluate the alignment between property features and prices.
-  *  Identified optimal investment windows by overlaying selected features with time-granular price trends on a heat map.
-  *  First Prize and A+ Rating in the NUS SOC Summer Workshop, Best Project.
-  
+  * Developed a method to analyze real estate market trends using time-series data, incorporating K-line and MA charts.
+  * Enabled a lightweight neural network to assess feature-price alignment by using a correlation matrix.
+  * Identified optimal investment windows with a heat map overlay of key features and price trends.
+    
 * **June 2022 ~ October 2023: Spastic Cerebral Palsy Cognitive Rehabilitation Training System** SCU MIL
-  * Traditional rehabilitation for children with spastic cerebral palsy is resource-intensive and difficult to deploy at home, lacking both physical and emotional support.
-  * Developed a game-based home rehabilitation system for children with spastic cerebral palsy, focusing on enhanced engagement and personalized training by tracking movement and emotional changes.
-  * Leveraged the ST-GCN to achieved real-time gesture recognition, with skeletal points extracted through OpenPose.
-  * Developed a dual network combining CNN and Transformer to achieved the emotion detection.
-  * Built a cloud-based platform to enable online engagement, ensuring remote access and communication.
-  * Provincial Outstanding Project in Undergrad Innovation and Entrepreneurship Program, Project Lead.
+  * Developed a game-based rehabilitation system for children with spastic cerebral palsy with skeleton key point detection.
+  * Enhanced engagement through sensory integration training, with tracking of movement and emotional changes.
+  * Built a cloud-based platform to support remote access, facilitating online interaction for effective home rehabilitation.
 
 ACHIEVEMENTS
 ======
