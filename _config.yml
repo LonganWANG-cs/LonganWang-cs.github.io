@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wang Longan"
+title                    : "Longan Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com.hk/citations?user=RQj6F7QAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0001-9989-3739"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
