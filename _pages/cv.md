@@ -24,7 +24,7 @@ redirect_from:
   -  Outstanding Graduate [2025]
   -  Outstanding Student [2024, 2023, 2022]
 
-
+---------
 
 ## 📚 Publications
 
@@ -40,6 +40,7 @@ redirect_from:
 [![Paper](https://img.shields.io/badge/NRCH-3664647.3680564-blue)](https://doi.org/10.1145/3664647.3680564)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/NRCH)  
 
+---------
 
 ## 🔬 **Experiences**
 
@@ -64,6 +65,8 @@ redirect_from:
 - **Key Contributions:**  
   -  Awarded Best Developer at Cambricon Technologies.
 
+---------
+
 ## 🏆 **Awards**
 - ⭐ **Best Developer** · Cambricon Technologies Corporation Limited · *September 2024*  
 - ⭐ **Outstanding Project (Leader)** · Undergraduate Innovation and Entrepreneurship Program (*Provincial*) · *December 2023*  
@@ -75,7 +78,7 @@ redirect_from:
 - 🥈 **Second Prize** · MathorCup University Mathematical Modeling Challenge (*National*) · *July 2023*  
 - 🥈 **Second Prize** · Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (*National*) · *February 2023*  
 
-
+---------
 
 
 ## 🔑 Intellectual Property
@@ -97,6 +100,7 @@ redirect_from:
 - Jiaming Feng, Kai Ren, Yujuan Zhan, **Longan Wang**, Nanli Cheng — *Deep Learning-Based 3D Imaging Precision Diagnostic System for Pulmonary Diseases* (2023). *Registration No.: 2023SR0649892*
 
 
+---------
 
 ## 🎯 **Interests**
 
