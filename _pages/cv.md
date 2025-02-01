@@ -98,6 +98,33 @@ redirect_from:
 
 
 
+## 🎯 **Interests**
+
+<table style="width:100%; border-collapse:collapse; text-align:center; border:1px solid #ccc; font-family:Arial, sans-serif;">
+  <tr style="background-color:#f7f7f7; color:#444;">
+    <th colspan="3" style="padding:15px; font-size:22px; font-weight:bold;"> Multimedia</th>
+  </tr>
+  <tr>
+    <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
+      <strong style="font-size:16px; color:#000;">Multimedia Systems</strong><br>
+      <span style="color:#555;">Efficient Data Representation</span><br>
+      <span style="color:#555;">Video Streaming & Compression</span><br>
+      <span style="color:#555;">Computer Graphics</span>
+    </td>
+    <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
+      <strong style="font-size:16px; color:#000;">Multimodal</strong><br>
+      <span style="color:#555;">Multimodal Learning</span><br>
+      <span style="color:#555;">2D/3D/4D Gaussian Splatting</span><br>
+      <span style="color:#555;">Cross-modal Hashing</span>
+    </td>
+    <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
+      <strong style="font-size:16px; color:#000;">Machine Learning</strong><br>
+      <span style="color:#555;">Information Retrieval</span><br>
+      <span style="color:#555;">Contrastive Learning</span><br>
+      <span style="color:#555;">Robustness & Noisy Data</span>
+    </td>
+  </tr>
+</table>
 
 
 
