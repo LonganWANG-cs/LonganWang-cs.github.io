@@ -12,7 +12,7 @@ redirect_from:
 My name is Longan Wang (王龙安).
 I am a final year undergraduate student at Colledge of Computer Science (CCS), Sichuan University (SCU).
 Currently I am working as an undergraduate researcher at School of Computing (SOC), National University of Singapore (NUS).
-I’m very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) from the **Machine Intelligence Lab**, [Sichuan University](https://www.scu.edu.cn/), and [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) from the **Image & Pervasive Access Lab (IPAL)**.
+I’m very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) from the **Machine Intelligence Lab (MIL)**, [Sichuan University](https://www.scu.edu.cn/), and [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) from the **Image & Pervasive Access Lab (IPAL)**.
 
 My primary interests lie in Multimedia.
 Specifically, I apply multimodal and machine learning techniques to develop effective multimedia systems.
