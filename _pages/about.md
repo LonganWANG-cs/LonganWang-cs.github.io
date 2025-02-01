@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 ## 👋 **About Me**
+My name is Longan Wang (王龙安).
+I am a final year undergraduate student at Colledge of Computer Science, Sichuan University.
+Currently I am working as an undergraduate researcher at School of Computing, National University of Singapore.
+I’m very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) from the **Machine Intelligence Lab**, [Sichuan University](https://www.scu.edu.cn/), and [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) from the **Image & Pervasive Access Lab (IPAL)**.
 
-I am an undergraduate student at Colledge of Computer Science, Sichuan University, and currently working as a undergraduate researcher at School of Computing, National University of Singapore. My primary interests lie in Multimedia (MM). Specifically, I apply multimodal and machine learning techniques to develop effective multimedia systems.
-
-I'm fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) from the **Machine Intelligence Lab**, [Sichuan University](https://www.scu.edu.cn/), and [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) from the [**Image & Pervasive Access Lab (IPAL)**](https://cnrs.hal.science/IPAL).
+My primary interests lie in Multimedia (MM).
+Specifically, I apply multimodal and machine learning techniques to develop effective multimedia systems.
 
 📄 You can view my CV [here](../assets/Curriculum_Vitae.pdf).
 
@@ -21,5 +24,9 @@ I'm fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) fro
 - **[GitHub](https://github.com/LonganWANG-cs)**  
 - **[WeChat](../images/wechat.jpg)**  
 
+
+## 📝 **Peer Review**
+
+**Reviewer** for *Information Fusion* ([ISSN: 1566-2535](https://www.journals.elsevier.com/information-fusion)), **2025**.
 
 

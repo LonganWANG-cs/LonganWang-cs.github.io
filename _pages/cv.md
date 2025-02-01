@@ -41,7 +41,7 @@ redirect_from:
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/NRCH)  
 
 
-## 🔬 **Experience**
+## 🔬 **Experiences**
 
 ###  **Undergraduate Researcher** @ [Image & Pervasive Access Lab (IPAL)](https://cnrs.hal.science/IPAL/)  
 *April 2024 – Present* · On-site, School of Computing, National University of Singapore, Singapore  
