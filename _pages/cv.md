@@ -9,53 +9,66 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
-* **Visiting Student in National University of Singapore (NUS), May 2023 ~ 2025**
-  - [NGNE](https://www.comp.nus.edu.sg/~ngne/), School of Computing
-  - [SWS2023](https://sws.comp.nus.edu.sg/2023/), School of Computing
-  - GRADE @ SWS: A+
-  - AWARD @ SWS: First Prize
-    
-* **B.S. in Sichuan University (SCU), September 2021 ~ 2025**
-  - Artificial Intelligence, College of Computer Science
-  - GPA (Compulsory): 3.87 /4.00
-  - GRADE (Compulsory): 91.16 /100.0
+## 🎓 Education
 
-PUBLICATIONS
-======
-* **[Robust Contrastive Cross-modal Hashing with Noisy Labels](https://openreview.net/pdf?id=UBPu6deCPt) (Undergraduate 1st author)**
-  * **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
-  * Accepted by the 32nd ACM International Conference on Multimedia (MM ’24)
+### National University of Singapore (NUS)
+- **Visiting Student**, School of Computing _(May 2023 – Present)_  
+-  **Grades**:
+  - [NGNE](https://www.comp.nus.edu.sg/~ngne/): **4.7/5.0**
+  - [SWS2023](https://sws.comp.nus.edu.sg/2023/): **A+ / First Prize**
 
-INTERNSHIP
-======
-* **April 2024 ~ Present: Visiting Student/Researcher ([Image & Pervasive Access Lab, IPAL NUS)](https://cnrs.hal.science/IPAL/))**
-  * Natioanl University of Singapore, School of Computing
-  * Advisor: Prof. [Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)
-  * Area:
-    - Multimedia Systems & Video Streaming & 2D/3D/4D Gaussian Splatting.
-  * Work:
-    - Developed a novel Gaussian-based video representation framework, ready to submit to NOSSDAV’25 as the firsr author.
-  
-* **June 2022 ~ Present: Undergraduate Researcher (Machine Intelligence Laboratory, MIL SCU)**
-  * Sichuan University, Colledge of Computer Science
-  * Advisor: Prof. [Peng Hu](https://penghu-cs.github.io/)
-  * Area:
-    - Multimodal Learning & Cross-modal Retrieval & Noise Data.
-  * Work:
-    - Proposed a novel approach for Cross-modal Hashing on noisy labels, accepted to MM’24 as first author.
-    - Introduced a noise robust orchard management system, ranked 1/10,000 for the Innovation Prize in APMCM.
-    - Developed a rehabilitation system for cerebral palsy children as the Project Lead, securing 1 patent and 2 copyrights.
+---
 
-  
-* **May 2023 ~ August 2023: NUS SOC Summer Workshop 2023, SOC NUS**
-  * National University of Singapore, School of Computing
-  * Advisor: [Prof. Danny Poo](https://www.drdannypoo.com/)
-  * Area:
-    - Machine Learning & Big Data Analysis & Data Visualization.
-  * Work:
-    - Proposed a predictive framework for the Beijing property market, wining the First Prize in SWS.
+### Sichuan University (SCU)
+- **B.Sc. in Artificial Intelligence**, College of Computer Science _(Sept 2021 – Present)_  
+-  **Rank**: **3/47** in the Department of Artificial Intelligence  
+-  **GPA**: **3.9/4.0**
+
+
+## 📚 Publications
+
+### GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting (2025)
+**Longan Wang**, Yuang Shi, Wei Tsang Ooi  
+[![Paper](https://img.shields.io/badge/GSVC-2501.12060%20-red
+)](https://doi.org/10.48550/arXiv.2501.12060)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/GSVC)  
+
+---
+
+### Robust Contrastive Cross-modal Hashing with Noisy Labels (2024)  
+**Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu  
+_In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), pp. 5752–5760._  
+[![Paper](https://img.shields.io/badge/NRCH-3664647.3680564-blue
+)](https://doi.org/10.1145/3664647.3680564)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/NRCH)  
+
+
+
+
+## 📋 Internship & Research Experience
+
+###  **Visiting Undergraduate Researcher**  @ **Image & Pervasive Access Lab (IPAL), [NUS](https://cnrs.hal.science/IPAL/)**  
+*April 2024 – Present*  
+- **Institution:** National University of Singapore, School of Computing  
+- **Advisor:** [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)  
+- **Research Areas:**  
+  -  Multimedia Systems,  Video Streaming,  2D/3D/4D Gaussian Splatting  
+- **Key Contributions:**  
+  - Developed a novel Gaussian-based video representation framework, submitted to NOSSDAV’25 as **first author**.  
+
+
+
+### **Undergraduate Researcher**  @ **Machine Intelligence Laboratory (MIL), [SCU](https://penghu-cs.github.io/)**  
+*June 2022 – Present*  
+- **Institution:** Sichuan University, College of Computer Science  
+- **Advisor:** [Prof. Peng Hu](https://penghu-cs.github.io/)  
+- **Research Areas:**  
+  -  Multimodal Learning,  Cross-modal Retrieval, Noisy Data  
+- **Key Contributions:**  
+  - Proposed a novel approach for **Cross-modal Hashing with noisy labels**, accepted to **MM’24** as **first author**.  
+  - Designed a **noise-robust orchard management system**, ranked **1st out of 10,000+** for the **Innovation Prize** in APMCM.  
+  - Led the development of a **rehabilitation system for children with cerebral palsy**, securing **1 patent** and **2 software copyrights**.
+
 
       
 RESEARCH
