@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Hello My Friends!"
+title: "Hello my friends!"
 permalink: /cv/
 author_profile: true
 redirect_from:
