@@ -10,7 +10,7 @@ redirect_from:
 
 ## 👋 **About Me**
 I am Longan Wang (王龙安), a final-year undergraduate student at the College of Computer Science (CCS), Sichuan University (SCU).
- I am also an incoming Ph.D. student for Fall 2025 at the Department of Computer Science, School of Computing (SoC), National University of Singapore (NUS), currently conducting research as an undergraduate researcher at the *Image & Pervasive Access Lab (IPAL)*.
+I am also an incoming Ph.D. student for Fall 2025 at the Department of Computer Science, School of Computing (SoC), National University of Singapore (NUS), currently conducting research as an undergraduate researcher at the *Image & Pervasive Access Lab (IPAL)*.
 
 I’m very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) from the *Machine Intelligence Lab (MIL)*, [Sichuan University](https://www.scu.edu.cn/), and [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) from the *IPAL*.
 
