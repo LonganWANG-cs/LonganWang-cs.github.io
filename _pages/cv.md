@@ -112,7 +112,7 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
   <tr>
     <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
       <strong style="font-size:16px; color:#000;">Multimedia Systems</strong><br>
-      <span style="color:#555;">Efficient Data Representation</span><br>
+      <span style="color:#555;">Networking</span><br>
       <span style="color:#555;">Video Streaming & Compression</span><br>
       <span style="color:#555;">Computer Graphics</span>
     </td>
