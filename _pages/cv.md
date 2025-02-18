@@ -62,7 +62,6 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
 ## 🏆 **Awards**
 
 - ⭐ *Best Developer* · Cambricon Technologies Corporation Limited · *September 2024*  
-- ⭐ *Outstanding Project (Leader)* · Undergraduate Innovation and Entrepreneurship Program (*Provincial*) · *December 2023*  
 - 🏅 *Innovation Prize* · Asia and Pacific Mathematical Contest in Modeling (*National*) · *May 2024*  
 - 🥇 *First Prize* · Asia and Pacific Mathematical Contest in Modeling (*National*) · *November 2023*   
 
