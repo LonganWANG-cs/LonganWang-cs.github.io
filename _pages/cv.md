@@ -67,9 +67,6 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
 - 🥇 *First Prize* · Asia and Pacific Mathematical Contest in Modeling (*National*) · *November 2023*  
 - 🥇 *First Prize* · China Undergraduate Mathematical Contest in Modeling (*Provincial*) · *September 2023* 
 - 🥇 *First Prize* · College Student Academic Science and Technology Competition (*Provincial*) · *May 2023*   
-- 🥈 *Second Prize* · Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (*National*) · *February 2024*  
-- 🥈 *Second Prize* · MathorCup University Mathematical Modeling Challenge (*National*) · *July 2023*  
-- 🥈 *Second Prize* · Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (*National*) · *February 2023*  
 
 ---------
 
