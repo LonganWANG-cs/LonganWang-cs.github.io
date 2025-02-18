@@ -48,22 +48,14 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
 *April 2024 – Present* · On-site, School of Computing, National University of Singapore, Singapore  
 - Mentor: [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)  
 - Area: Multimedia Systems, Video Streaming, 2D/3D/4D Gaussian Splatting  
-<!-- - Key Contributions:
-  -  Led the development of GSVC, a novel digital video compression technique leveraging 2D Gaussian Splatting, achieving 1500 FPS decoding speeds while maintaining video quality comparable to AV1 and VVC. -->
 
 ###  Undergraduate Researcher @ [Machine Intelligence Laboratory (MIL)](https://penghu-cs.github.io/)  
 *June 2022 – Present* · On-site, College of Computer Science, Sichuan University, Chengdu, China  
 - Mentors: [Prof. Peng Hu](https://penghu-cs.github.io/), [Prof. Dezhong Peng](https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=zh-CN), [Prof. Xi Peng](https://pengxi.me/)  
 - Area: Multimodal，Cross-modal Retrieval, Noisy Data  
-<!-- - Key Contributions: 
-  -  First Author of a paper on Cross-modal Hashing with Noisy Labels, accepted at MM’24.  
-  -  Developed a noise-robust orchard management system, ranked 1st out of 10,000+ for the Innovation Prize and First Prize in APMCM.  
-  -  Project Lead for a rehabilitation system for cerebral palsy children, securing 1 patent and 2 software copyrights. -->
 
 ###  Algorithm Engineer @ [Cambricon Technologies Corporation Limited](https://www.cambricon.com/)  
 *August 2024 – September 2024* · Remote, Chengdu, China  
-<!-- - Key Contributions:  
-  -  Awarded Best Developer at Cambricon Technologies. -->
 
 ---------
 
