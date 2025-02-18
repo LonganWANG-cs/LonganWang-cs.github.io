@@ -113,20 +113,20 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
     <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
       <strong style="font-size:16px; color:#000;">Multimedia Systems</strong><br>
       <span style="color:#555;">Networking</span><br>
-      <span style="color:#555;">Video Streaming & Compression</span><br>
+      <span style="color:#555;">Video Streaming</span><br>
       <span style="color:#555;">Computer Graphics</span>
     </td>
     <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
       <strong style="font-size:16px; color:#000;">Multimodal</strong><br>
       <span style="color:#555;">Multimodal Learning</span><br>
-      <span style="color:#555;">2D/3D/4D Gaussian Splatting</span><br>
+      <span style="color:#555;">Gaussian Splatting</span><br>
       <span style="color:#555;">Cross-modal Hashing</span>
     </td>
     <td style="padding:20px; border:1px solid #ccc; background-color:#fff;">
       <strong style="font-size:16px; color:#000;">Machine Learning</strong><br>
       <span style="color:#555;">Information Retrieval</span><br>
       <span style="color:#555;">Contrastive Learning</span><br>
-      <span style="color:#555;">Robustness & Noisy Data</span>
+      <span style="color:#555;">Noisy Data</span>
     </td>
   </tr>
 </table>
