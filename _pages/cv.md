@@ -28,15 +28,16 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
 
 ## 📚 **Publications**
 
-###  GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting (2025)  
+###  GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting (NOSSDAV'25)  
 **Longan Wang**, Yuang Shi, Wei Tsang Ooi  
 [![Paper](https://img.shields.io/badge/GSVC-2501.12060-red)](https://doi.org/10.48550/arXiv.2501.12060)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/GSVC)  
+[![Project Page](https://img.shields.io/badge/Project%20Page-GSVC-blue?logo=OpenProject)](https://yuang-ian.github.io/gsvc/)
 
 
-###  Robust Contrastive Cross-modal Hashing with Noisy Labels (2024)  
+
+###  Robust Contrastive Cross-modal Hashing with Noisy Labels (MM'24)  
 **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu  
-*In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), pp. 5752–5760*  
 [![Paper](https://img.shields.io/badge/NRCH-3664647.3680564-blue)](https://doi.org/10.1145/3664647.3680564)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/LonganWANG-cs/NRCH)  
 
@@ -45,14 +46,10 @@ B.Sc. in Artificial Intelligence · College of Computer Science  _(Sept 2021 –
 ## 🔬 **Experiences**
 
 ###  Undergraduate Researcher @ [Image & Pervasive Access Lab (IPAL)](https://cnrs.hal.science/IPAL/)  
-*April 2024 – Present* · On-site, School of Computing, National University of Singapore, Singapore  
-- Mentor: [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)  
-- Area: Multimedia Systems, Video Streaming, 2D/3D/4D Gaussian Splatting  
+*April 2024 – Present* · On-site, Singapore |Mentor: [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/index.html)  
 
 ###  Undergraduate Researcher @ [Machine Intelligence Laboratory (MIL)](https://penghu-cs.github.io/)  
-*June 2022 – Present* · On-site, College of Computer Science, Sichuan University, Chengdu, China  
-- Mentors: [Prof. Peng Hu](https://penghu-cs.github.io/), [Prof. Dezhong Peng](https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=zh-CN), [Prof. Xi Peng](https://pengxi.me/)  
-- Area: Multimodal，Cross-modal Retrieval, Noisy Data  
+*June 2022 – Present* · On-site, Chengdu, China |Mentors: [Prof. Peng Hu](https://penghu-cs.github.io/), [Prof. Dezhong Peng](https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=zh-CN), [Prof. Xi Peng](https://pengxi.me/)  
 
 ###  Algorithm Engineer @ [Cambricon Technologies Corporation Limited](https://www.cambricon.com/)  
 *August 2024 – September 2024* · Remote, Chengdu, China  

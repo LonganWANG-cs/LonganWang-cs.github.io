@@ -17,13 +17,13 @@ I’m very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.i
 My primary interests lie in Multimedia.
 Specifically, I apply multimodal and machine learning techniques to develop effective multimedia systems.
 
-You can view my CV here. [📄 ](../assets/Curriculum_Vitae.pdf)
 
 [Email](mailto:wanglongan1007@gmail.com)/ [GitHub](https://github.com/LonganWANG-cs)  / [WeChat](../images/wechat.jpg) / [Google Scholar](https://scholar.google.com.hk/citations?user=RQj6F7QAAAAJ&hl=zh-CN)
 
 ---------
 
 ## 🔥 **News**
+- [2024/03] Our paper "GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting" is accepted to NOSSDAV 2024 (CCF-A). Thanks to all coauthors!
 - [2025/02] Accepted to the PhD program of the Department of Computer Science, School of Computing (SoC), NUS.
 - [2024/07] Our paper "Robust Contrastive Cross-modal Hashing with Noisy Labels" is accepted to ACMMM 2024 (CCF-A). Thanks to all coauthors!
 - [2024/05] Accepted to the NGNE Program at the School of Computing (SoC), NUS.
@@ -32,9 +32,9 @@ You can view my CV here. [📄 ](../assets/Curriculum_Vitae.pdf)
 
 ## 📝 **Publications**
 
-- **Longan Wang**, Yuang Shi, Wei Tsang Ooi. GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting [J]. *arXiv preprint*, arXiv:2501.12060, 2025.
+- **Longan Wang**, Yuang Shi, Wei Tsang Ooi. GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting [J]. *arXiv preprint*, arXiv:2501.12060, 2025. (NOSSDAV'25)
 
-- **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu. Robust Contrastive Cross-modal Hashing with Noisy Labels [C] // *Proceedings of the 32nd ACM International Conference on Multimedia*, 2024: 5752–5760.
+- **Longan Wang**, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu. Robust Contrastive Cross-modal Hashing with Noisy Labels [C] // *Proceedings of the 32nd ACM International Conference on Multimedia*, 2024: 5752–5760. (MM'24)
 
 ---------
 
