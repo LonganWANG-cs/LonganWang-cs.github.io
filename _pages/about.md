@@ -23,9 +23,9 @@ Specifically, I apply multimodal and machine learning techniques to develop effe
 ---------
 
 ## 🔥 **News**
-- [2024/03] Our paper "GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting" is accepted to NOSSDAV 2024 (CCF-A). Thanks to all coauthors!
+- [2024/03] Our paper "GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting" is accepted to NOSSDAV 2025. Thanks to all coauthors!
 - [2025/02] Accepted to the PhD program of the Department of Computer Science, School of Computing (SoC), NUS.
-- [2024/07] Our paper "Robust Contrastive Cross-modal Hashing with Noisy Labels" is accepted to ACMMM 2024 (CCF-A). Thanks to all coauthors!
+- [2024/07] Our paper "Robust Contrastive Cross-modal Hashing with Noisy Labels" is accepted to ACMMM 2024. Thanks to all coauthors!
 - [2024/05] Accepted to the NGNE Program at the School of Computing (SoC), NUS.
 
 ---------
